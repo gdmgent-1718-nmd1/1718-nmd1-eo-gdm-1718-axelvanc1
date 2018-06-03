@@ -9,10 +9,80 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+    background-color:#B5EEE9;
+    
 }
 
 img {
     max-width: 100%; /* Afbeeldingen responsive maken */
 }
 
-/* Voeg jouw css hieraan toe */
+#pilsnerfest{
+    width: 90px;
+    height: 75px;
+}
+
+#logo{
+    background-color:#258A8D;
+    text-align: center;
+
+}
+
+#waterval{
+    width: 400px;
+    height: 300px;
+}
+
+.head{
+    width: 400px;
+}
+
+ul {
+    list-style-type: circle;
+    font-family: 'Raleway', sans-serif;
+}
+
+#titel{
+    font-family: 'Raleway', sans-serif;
+    color: #d59657;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#tekst{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    font-size: 20px;
+}
+
+a:link {
+    text-decoration:none;
+    color:#E6A565;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    
+}
+a:hover {
+    text-decoration: underline;
+    color:#d59657;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+a:active {
+    color: #362222;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.navigatie{
+    background-color:#258A8D;
+    width:400px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color:#258A8D;
+    width: 400px;
+    text-align: center;
+}
